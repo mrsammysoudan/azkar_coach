@@ -1,3 +1,3 @@
 # azkar_coach
 Azkar flutter app for muslims to track the prayers using voice recognition
-![azkar2](https://github.com/user-attachments/assets/02063fed-b1df-4e0b-8eb5-2fb35f9a23da)
+![azkar coach github photo](https://github.com/user-attachments/assets/4670870c-5636-4097-a42b-2eaa9eaf58a0)
